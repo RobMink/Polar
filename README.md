@@ -1,3 +1,6 @@
+DEPRECATED:  Please see polar 2 at https://www.thingiverse.com/thing:4032809
+
+
 # Polar
 Polar Printer
 This is an unfinished Polar Printer, Demo-ed at ERRF 2019
